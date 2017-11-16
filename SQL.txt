@@ -1,0 +1,9 @@
+sql
+ sys as sysdba System
+
+ user system
+ senha bender666
+
+bender/bender666
+
+ bender2/bender
